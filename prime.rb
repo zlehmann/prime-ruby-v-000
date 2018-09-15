@@ -4,8 +4,8 @@ def prime?(number)
   test_array = []
   primes = []
   i=1
-  while i <= number do 
-    test_array << i 
+  while i <= number do
+    test_array << i
     i += 1
   end
   binding.pry
